@@ -81,8 +81,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-bjnkml,
-hbkjnkml,
-jvhbkjn,
-yctvyjbkjn,
